@@ -114,4 +114,4 @@ def garena():
 
 # Chạy server
 if __name__ == '__main__':
-    app.run(host='0.0.0.0', port='8122')  # -> chú ý port, không để bị trùng với port chạy cái khác
+    app.run(host='0.0.0.0', port='80')  # -> chú ý port, không để bị trùng với port chạy cái khác
